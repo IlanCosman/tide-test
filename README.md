@@ -21,6 +21,8 @@
 
 ## Installation
 
+https://user-images.githubusercontent.com/1434705/105638570-193c0a00-5e28-11eb-982d-d2f8ce9e2091.mov
+
 ### System Requirements
 
 - The **latest** version of [Fish][], currently 3.2.2. [Using an older version of Fish?][]
