@@ -127,17 +127,11 @@ Open each file and click "Install". This will make the `MesloLGS NF` font availa
 - [Spacefish][] - Inspired some of Tide's items.
 
 [`items`]: https://github.com/IlanCosman/tide/wiki/Configuration#items
-[actions]: https://github.com/IlanCosman/tide/actions
 [async]: ../assets/animations/async.gif
-[blazing_badge]: https://img.shields.io/badge/speed-blazing%20%F0%9F%94%A5-red
-[blazing_tweet]: https://twitter.com/acdlite/status/974390255393505280
-[ci_badge]: https://github.com/IlanCosman/tide/workflows/CI/badge.svg
 [configuration_wizard]: ../assets/animations/configuration_wizard.gif
 [contributing guide]: CONTRIBUTING.md
 [fish]: https://fishshell.com/
 [fisher]: https://github.com/jorgebucaran/fisher
-[license_badge]: https://img.shields.io/github/license/IlanCosman/tide
-[license]: LICENSE.md
 [meslolgs nf bold italic.ttf]: ../assets/fonts/mesloLGS_NF_bold_italic.ttf?raw=true
 [meslolgs nf bold.ttf]: ../assets/fonts/mesloLGS_NF_bold.ttf?raw=true
 [meslolgs nf italic.ttf]: ../assets/fonts/mesloLGS_NF_italic.ttf?raw=true
