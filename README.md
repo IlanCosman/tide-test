@@ -4,7 +4,7 @@
 
 **The ultimate Fish prompt.**
 
-- **Fast -** Asynchronous rendering makes Tide the fastest Fish prompt in its class.
+- **Fast -** Asynchronous rendering makes Tide feel snappy in any situation.
 - **Friendly -** An interactive configuration wizard lets you design your prompt efficiently.
 - **Flexible -** Easily move content around or remove it. Create custom content with simple Fish functions that integrate seamlessly.
 
