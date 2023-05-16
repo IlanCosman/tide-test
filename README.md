@@ -1,6 +1,6 @@
 # <div align="center"><img src="../assets/images/logo.svg" width="480"/></div>
 
-<img src="../assets/images/header.png" width="50%" align="right"/>
+<img src="https://github.com/IlanCosman/tide-test/assets/6318351/b253e47f-472d-4e75-8490-05e6df65ac33" width="50%" align="right"/>
 
 **The ultimate Fish prompt.**
 
@@ -8,7 +8,8 @@
 - **Friendly -** An interactive configuration wizard lets you design your prompt efficiently.
 - **Flexible -** Pure-Fish construction means you can easily control existing content or create your own that will integrate seamlessly.
 
-## Installation
+## Installation!
+
 
 ### System Requirements
 
