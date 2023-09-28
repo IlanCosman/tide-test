@@ -2,12 +2,12 @@
 
 <img src="https://github.com/IlanCosman/tide-test/assets/6318351/4f2bdc24-0333-4cfa-a081-89d6b2e43154" width="50%" align="right"/>
 
-&nbsp;
-
 **The ultimate Fish prompt.**
 
 - **Fast -** Asynchronous rendering makes Tide instantly responsive in any situation.
+
 - **Friendly -** An interactive configuration wizard lets you design your prompt efficiently.
+
 - **Flexible -** Pure-Fish construction means you can easily control existing content or create your own that will integrate seamlessly.
 
 ## Installation!
