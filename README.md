@@ -1,4 +1,4 @@
-# <div align="center"><img src="../assets/images/logo.svg" width="480"/></div>
+<div align="center"><img src="../assets/images/logo.svg" width="480"/></div>
 
 <img src="https://github.com/IlanCosman/tide-test/assets/6318351/273919ee-6abc-4e38-bc26-e01d8e25314c" width="50%" align="right"/>
 
