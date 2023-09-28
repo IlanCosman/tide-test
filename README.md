@@ -1,6 +1,6 @@
 ## <div align="center"><img src="../assets/images/logo.svg" width="480"/></div>
 
-<img src="https://github.com/IlanCosman/tide-test/assets/6318351/572db515-3a5f-44e3-9d7b-b5387bec7130" width="50%" align="right"/>
+<img src="https://github.com/IlanCosman/tide-test/assets/6318351/4f2bdc24-0333-4cfa-a081-89d6b2e43154" width="50%" align="right"/>
 
 **The ultimate Fish prompt.**
 
