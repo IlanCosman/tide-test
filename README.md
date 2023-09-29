@@ -54,7 +54,7 @@ Run `tide configure` to open the wizard in your terminal.
 
 Using the [`items`][] list for each side of the prompt, you have full control of which and where prompt sections display.
 
-<br clear="right"><br>
+<br clear="right">
 
 <img src="https://github.com/IlanCosman/tide-test/assets/6318351/d505fea8-e44a-4d02-bfab-67223b3c766d" width="61.8%" align="left"/>
 
@@ -62,7 +62,7 @@ Using the [`items`][] list for each side of the prompt, you have full control of
 
 If there isn't an item that fits your needs you can make your own (and hopefully submit a pull request) or ask for it to be made by opening an issue.
 
-<br clear="left"><br>
+<br clear="left">
 
 ### Asynchronous Rendering
 
