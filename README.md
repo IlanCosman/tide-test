@@ -56,7 +56,7 @@ If there isn't an item that fits your needs you can make your own (and hopefully
 
 <br clear="right"><br>
 
-<img src="https://github.com/IlanCosman/tide-test/assets/6318351/25f73c7c-03ab-47b9-88b7-09557dfc5bfd" width="61.8%" align="left"/>
+<img src="https://github.com/IlanCosman/tide-test/assets/6318351/3d9c166d-9d31-401c-bb67-8307690ff30e" width="61.8%" align="left"/>
 
 ### Flexible
 
