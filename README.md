@@ -46,8 +46,6 @@ Run `tide configure` to open the wizard in your terminal.
 
 ![configuration_wizard][]
 
-<br>
-
 <img src="https://github.com/IlanCosman/tide-test/assets/6318351/3d9c166d-9d31-401c-bb67-8307690ff30e" width="61.8%" align="right"/>
 
 ### Flexible
