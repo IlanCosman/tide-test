@@ -48,7 +48,7 @@ Run `tide configure` to open the wizard in your terminal.
 
 <br>
 
-<img src="../assets/images/extensible.png" width="61.8%" align="right"/>
+<img src="https://github.com/IlanCosman/tide-test/assets/6318351/d505fea8-e44a-4d02-bfab-67223b3c766d" width="61.8%" align="right"/>
 
 ### Extensible
 
