@@ -54,7 +54,7 @@ Using the [`items`][] list for each side of the prompt, you have full control of
 
 <br clear="right">
 
-<img src="https://github.com/IlanCosman/tide-test/assets/6318351/d505fea8-e44a-4d02-bfab-67223b3c766d" width="61.8%" align="left"/>
+<img src="https://github.com/IlanCosman/tide-test/assets/6318351/d1d2f7b0-8714-4fcd-9e80-19de05f2dd24" width="61.8%" align="left"/>
 
 ### Extensible
 
