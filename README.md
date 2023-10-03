@@ -70,18 +70,6 @@ Tide runs everything in the background so that your prompt will always feel snap
 
 Asynchronous rendering also allows Tide to display more information than other prompts. For example, most prompts don't display the number of untracked, modified, or deleted files in a git repository because it's too slow to compute.
 
-<br>
-
-<img src="../assets/images/multi-line_right_prompt.png" width="61.8%" align="left"/>
-
-### Multi-Line Right Prompt
-
-> Fish can't do _that_ yet can it!
-
-Tide is the only Fish prompt capable of displaying a multi-line right prompt. All you have to do is add the `newline` item.
-
-<br clear="left">
-
 ### Current directory that just works
 
 The current working directory is the most important part of any shell prompt. Tide highlights the critical parts and truncates with the least loss of information when horizontal space is scarce.
