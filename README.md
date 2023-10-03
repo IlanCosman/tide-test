@@ -126,7 +126,7 @@ Open each file and click "Install". This will make the `MesloLGS NF` font availa
 - [Spacefish][] - Inspired some of Tide's items.
 
 [`items`]: https://github.com/IlanCosman/tide/wiki/Configuration#items
-[async]: ../assets/animations/async.gif
+[async]: async.png
 [configuration_wizard]: configuration_wizard.webp
 [contributing guide]: CONTRIBUTING.md
 [fish]: https://fishshell.com/
