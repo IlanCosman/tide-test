@@ -125,7 +125,7 @@ Open each file and click "Install". This will make the `MesloLGS NF` font availa
 [meslolgs nf regular.ttf]: ../assets/fonts/mesloLGS_NF_regular.ttf?raw=true
 [nerd fonts]: https://github.com/ryanoasis/nerd-fonts
 [powerlevel10k]: https://github.com/romkatv/powerlevel10k/
-[pwd]: ../assets/images/pwd.png
+[pwd]: current_dir.png
 [spacefish]: https://github.com/matchai/spacefish
 [starship]: https://github.com/starship/starship
 [using an older version of fish?]: https://github.com/IlanCosman/tide/wiki/Fish-version-compatibility
