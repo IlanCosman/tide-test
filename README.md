@@ -74,9 +74,7 @@ Asynchronous rendering also allows Tide to display more information than other p
 
 The current working directory is the most important part of any shell prompt. Tide highlights the critical parts and truncates with the least loss of information when horizontal space is scarce.
 
-<p align="center">
-  <img src="./current_dir.png"/>
-</p>
+<div align="center"><img src="./current_dir.png"/></div>
 
 When the full directory doesn't fit, the leftmost segment is truncated to its shortest unique prefix. In the example above, `Documents` becomes `Doc` instead of `D` because that could be confused with `Downloads`. Important segments are bold and never truncated. These include the last segment, root of a Git repository etc.
 
