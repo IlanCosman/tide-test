@@ -1,6 +1,6 @@
-## <div align="center"><img src="../assets/images/logo.svg" width="480"/></div>
+## <div align="center"><img src="https://github.com/IlanCosman/tide-test/blob/assets/images/logo.svg" width="480"/></div>
 
-<img src="https://github.com/IlanCosman/tide-test/assets/6318351/4f2bdc24-0333-4cfa-a081-89d6b2e43154" width="50%" align="right"/>
+<img src="https://github.com/IlanCosman/tide-test/blob/assets/images/header.png" width="50%" align="right"/>
 
 **The ultimate Fish prompt.**
 
@@ -11,7 +11,6 @@
 - **Flexible -** Pure-Fish construction means you can easily control existing content or create your own that will integrate seamlessly.
 
 ## Installation!
-
 
 ### System Requirements
 
@@ -46,7 +45,7 @@ Run `tide configure` to open the wizard in your terminal.
 
 ![configuration_wizard][]
 
-<img src="https://github.com/IlanCosman/tide-test/assets/6318351/97d9fa67-884e-4f75-b056-596a56908b3a" width="61.8%" align="right"/>
+<img src="https://github.com/IlanCosman/tide-test/blob/assets/images/flexible.png" width="61.8%" align="right"/>
 
 ### Flexible
 
@@ -54,9 +53,9 @@ Using the [`items`][] list for each side of the prompt, you have full control of
 
 <br clear="right">
 
-<img src="https://github.com/IlanCosman/tide-test/assets/6318351/d505fea8-e44a-4d02-bfab-67223b3c766d" width="61.8%" align="left"/>
+<img src="https://github.com/IlanCosman/tide-test/blob/assets/images/extendable.png" width="61.8%" align="left"/>
 
-### Extensible
+### Extendable
 
 If there isn't an item that fits your needs you can make your own (and hopefully submit a pull request) or ask for it to be made by opening an issue.
 
@@ -74,7 +73,7 @@ Asynchronous rendering also lets Tide display more information than other prompt
 
 The current working directory is the most important part of any shell prompt. Tide highlights the critical parts and truncates with the least loss of information when horizontal space is scarce.
 
-<div align="center"><img src="./current_dir.png"/></div>
+<div align="center"><img src="https://github.com/IlanCosman/tide-test/blob/assets/images/pwd.png"/></div>
 
 When the full directory doesn't fit, the leftmost segment is truncated to its shortest unique prefix. In the example above, `Documents` becomes `Doc` instead of `D` because that could be confused with `Downloads`. Important segments are bold and never truncated. These include the last segment, root of a Git repository etc.
 
@@ -114,18 +113,17 @@ Open each file and click "Install". This will make the `MesloLGS NF` font availa
 - [Spacefish][] - Inspired some of Tide's items.
 
 [`items`]: https://github.com/IlanCosman/tide/wiki/Configuration#items
-[async]: async.png
-[configuration_wizard]: configuration_wizard.webp
+[async]: https://github.com/IlanCosman/tide-test/blob/assets/animations/async.png
+[configuration_wizard]: https://github.com/IlanCosman/tide-test/blob/assets/animations/configuration_wizard.webp
 [contributing guide]: CONTRIBUTING.md
 [fish]: https://fishshell.com/
 [fisher]: https://github.com/jorgebucaran/fisher
-[meslolgs nf bold italic.ttf]: ../assets/fonts/mesloLGS_NF_bold_italic.ttf?raw=true
-[meslolgs nf bold.ttf]: ../assets/fonts/mesloLGS_NF_bold.ttf?raw=true
-[meslolgs nf italic.ttf]: ../assets/fonts/mesloLGS_NF_italic.ttf?raw=true
-[meslolgs nf regular.ttf]: ../assets/fonts/mesloLGS_NF_regular.ttf?raw=true
+[meslolgs nf bold italic.ttf]: https://github.com/IlanCosman/tide-test/blob/assets/fonts/mesloLGS_NF_bold_italic.ttf?raw=true
+[meslolgs nf bold.ttf]: https://github.com/IlanCosman/tide-test/blob/assets/fonts/mesloLGS_NF_bold.ttf?raw=true
+[meslolgs nf italic.ttf]: https://github.com/IlanCosman/tide-test/blob/assets/fonts/mesloLGS_NF_italic.ttf?raw=true
+[meslolgs nf regular.ttf]: https://github.com/IlanCosman/tide-test/blob/assets/fonts/mesloLGS_NF_regular.ttf?raw=true
 [nerd fonts]: https://github.com/ryanoasis/nerd-fonts
 [powerlevel10k]: https://github.com/romkatv/powerlevel10k/
-[pwd]: current_dir.png
 [spacefish]: https://github.com/matchai/spacefish
 [starship]: https://github.com/starship/starship
 [using an older version of fish?]: https://github.com/IlanCosman/tide/wiki/Fish-version-compatibility
