@@ -68,7 +68,7 @@ Tide runs everything in the background so that your prompt will always feel snap
 
 ![async][]
 
-Asynchronous rendering also lets Tide to display more information than other prompts. For example, most prompts don't display the number of untracked, modified, or deleted files in a git repository because it's too slow to compute.
+Asynchronous rendering also lets Tide display more information than other prompts. For example, most prompts don't display the number of untracked, modified, or deleted files in a git repository because it's too slow to compute.
 
 ### Current directory that just works
 
